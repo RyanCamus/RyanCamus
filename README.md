@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **RyanCamus/RyanCamus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This repo will hold all files pertaining to the Drinkly project, a project to make drinking easier and more enjoyable for all.
+This repo will act as a hub for all the mini-projects I work on. Most of them will be built in React, so make sure you are using a modern web browser and have Javascript enabled. 
+For questions/comments/bug reports, email me at camus.ryan@gmail.com
